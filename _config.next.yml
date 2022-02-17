@@ -1,3 +1,4 @@
+darkmode: true
 reminder: true
 preconnect: true
 footer:
@@ -19,6 +20,7 @@ creative_commons:
   sidebar: true
   post: true
   language: deed.zh
+  size: big
 # ---------------------------------------------------------------
 # SEO Settings
 # ---------------------------------------------------------------
