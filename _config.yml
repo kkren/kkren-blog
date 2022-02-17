@@ -8,7 +8,9 @@ subtitle: 菜鸡的博客
 description: kkren 写 bug 的地方
 keywords:
 author: kkren
-language: zh-CN
+language: 
+  - zh-CN
+  - en
 timezone: Asia/Shanghai
 
 # URL
