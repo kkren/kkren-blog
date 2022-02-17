@@ -121,8 +121,7 @@ save_scroll: true
 codeblock:
   prism:
     light: prism
-    dark: prism
-
+    dark: prism-okaidia
 
 # ---------------------------------------------------------------
 # Third Party Services Settings
